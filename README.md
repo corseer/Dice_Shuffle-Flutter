@@ -1,6 +1,6 @@
 # Dice_Shuffle-Flutter
 Learned in Flutter Tutorials
-- corseer
+-corseer
 
 ![Screenshot_Dice_1](https://user-images.githubusercontent.com/66917558/87504340-f0220c00-c683-11ea-975a-80469273fd3e.png)
 ![Screenshot_Dice_2](https://user-images.githubusercontent.com/66917558/87504355-f87a4700-c683-11ea-85f2-7d0337abdf36.png)
